@@ -1,19 +1,18 @@
 {
-    "name": "Avanade",
-    "registrationNumber": "1234",
-    "addresses": [
+  "Name": "Initech",
+  "RegistrationNumber": "123456789",
+  "Addresses": [
       {
-        "street": "Via Sciangai",
-        "city": "Rome",
-        "postalCode": "00124",
-        "country": "Italy"
+          "Street": "1234 Elm Street",
+          "City": "Springfield",
+          "PostalCode": "12345",
+          "Country": "USA"
       },
       {
-        "street": "Via Nuvola",
-        "city": "Milano",
-        "postalCode": "20135",
-        "country": "Italy"
+          "Street": "9876 Oak Street",
+          "City": "Shelbyville",
+          "PostalCode": "67890",
+          "Country": "USA"
       }
-  
     ]
 }

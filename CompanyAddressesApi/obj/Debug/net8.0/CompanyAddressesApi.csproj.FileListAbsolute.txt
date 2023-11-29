@@ -250,3 +250,4 @@ C:\Users\giacomo.satta\source\repos\CompanyAddresses\CompanyAddressesApi\obj\Deb
 C:\Users\giacomo.satta\source\repos\CompanyAddresses\CompanyAddressesApi\obj\Debug\net8.0\CompanyAddressesApi.pdb
 C:\Users\giacomo.satta\source\repos\CompanyAddresses\CompanyAddressesApi\obj\Debug\net8.0\CompanyAddressesApi.genruntimeconfig.cache
 C:\Users\giacomo.satta\source\repos\CompanyAddresses\CompanyAddressesApi\obj\Debug\net8.0\ref\CompanyAddressesApi.dll
+C:\Users\giacomo.satta\source\repos\CompanyAddresses\CompanyAddressesApi\obj\Debug\net8.0\CompanyAddressesApi.sourcelink.json

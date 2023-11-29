@@ -1,0 +1,13 @@
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.user
+*.suo
+*.sln.docstates
+*.nuget/
+*.DotSettings
+*.vscode/
+*.vs/
+*.log
