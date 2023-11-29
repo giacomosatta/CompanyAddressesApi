@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bv99A3SQjaW4L7Jee+HMbdcwPJdnxmJDxdAj3IGlUE8=",
+  "Source": "CompanyAddressesApi",
+  "BasePath": "_content/CompanyAddressesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
