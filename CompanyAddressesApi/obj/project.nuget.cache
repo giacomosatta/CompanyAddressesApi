@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EAY1WBVD+3kf567D9MK1MofTY3WQ39H5fj+PKrckuwDgTptBPXnKIP/Afs3SmtGSD+yRYIq+n/B9Ro/4UQsUIA==",
+  "dgSpecHash": "4CUWsqLmyk0lL/FoWZmOm4ypwbM25pPJOiB/N5ARGl7KmfcKcNtWl8qfBV3OEAfHKF6oc8lMaTvA9hPPszAQHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\giacomo.satta\\source\\repos\\CompanyAddresses\\CompanyAddressesApi\\CompanyAddressesApi.csproj",
+  "projectFilePath": "C:\\Users\\giacomo.satta\\Desktop\\CompanyAddressesApi\\CompanyAddressesApi\\CompanyAddressesApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\giacomo.satta\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\giacomo.satta\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
