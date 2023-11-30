@@ -19,8 +19,9 @@ This project implements a simple ASP.NET Core Web API with a POST endpoint for h
 1. **Clone the Repository:**
    
    ```bash
-   git clone https://github.com/tuo_username/CompanyAddressesApi.git
+   git clone https://github.com/giacomosatta/CompanyAddressesApi.git
    cd CompanyAddressesApi
+   cd CompanyAddressesApi  
    
 2. **Run the Application:**
    ```bash
