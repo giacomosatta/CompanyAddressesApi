@@ -329,3 +329,4 @@ C:\Users\giacomo.satta\source\repos\CompanyAddresses\CompanyAddressesApi.Tests\o
 C:\Users\giacomo.satta\source\repos\CompanyAddresses\CompanyAddressesApi.Tests\obj\Debug\net8.0\ref\CompanyAddressesApi.Tests.dll
 C:\Users\giacomo.satta\source\repos\CompanyAddresses\CompanyAddressesApi.Tests\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\giacomo.satta\source\repos\CompanyAddresses\CompanyAddressesApi.Tests\bin\Debug\net8.0\Moq.dll
+C:\Users\giacomo.satta\source\repos\CompanyAddresses\CompanyAddressesApi.Tests\obj\Debug\net8.0\CompanyAddressesApi.Tests.sourcelink.json

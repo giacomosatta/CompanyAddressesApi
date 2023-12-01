@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giacomo.satta\\Desktop\\CompanyAddressesApi\\CompanyAddressesApi\\CompanyAddressesApi.csproj": {}
+    "C:\\Users\\giacomo.satta\\source\\repos\\CompanyAddresses\\CompanyAddressesApi\\CompanyAddressesApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giacomo.satta\\Desktop\\CompanyAddressesApi\\CompanyAddressesApi\\CompanyAddressesApi.csproj": {
+    "C:\\Users\\giacomo.satta\\source\\repos\\CompanyAddresses\\CompanyAddressesApi\\CompanyAddressesApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giacomo.satta\\Desktop\\CompanyAddressesApi\\CompanyAddressesApi\\CompanyAddressesApi.csproj",
+        "projectUniqueName": "C:\\Users\\giacomo.satta\\source\\repos\\CompanyAddresses\\CompanyAddressesApi\\CompanyAddressesApi.csproj",
         "projectName": "CompanyAddressesApi",
-        "projectPath": "C:\\Users\\giacomo.satta\\Desktop\\CompanyAddressesApi\\CompanyAddressesApi\\CompanyAddressesApi.csproj",
+        "projectPath": "C:\\Users\\giacomo.satta\\source\\repos\\CompanyAddresses\\CompanyAddressesApi\\CompanyAddressesApi.csproj",
         "packagesPath": "C:\\Users\\giacomo.satta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giacomo.satta\\Desktop\\CompanyAddressesApi\\CompanyAddressesApi\\obj\\",
+        "outputPath": "C:\\Users\\giacomo.satta\\source\\repos\\CompanyAddresses\\CompanyAddressesApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giacomo.satta\\AppData\\Roaming\\NuGet\\NuGet.Config",

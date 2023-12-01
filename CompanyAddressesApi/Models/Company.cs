@@ -14,8 +14,5 @@ public class Company
     [MinLength(1, ErrorMessage = "Addresses cannot be empty")]
     public List<Address> Addresses { get; set; }
 
-    public override string ToString()
-    {
-        return $"Name: {Name}, RegistrationNumber: {RegistrationNumber},\nAddresses:{string.Join(";\n ", Addresses)}";
-    }
+
 }

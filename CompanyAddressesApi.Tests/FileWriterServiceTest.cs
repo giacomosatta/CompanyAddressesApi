@@ -1,6 +1,4 @@
-using CompanyAddressesApi.Models;
 using CompanyAddressesApi.Service;
-using Xunit;
 
 public class FileWriterServiceTest
 {
@@ -16,7 +14,7 @@ public class FileWriterServiceTest
     public async void ShouldWriteFile()
     {
         //Arrange
-        var company = TestDataWriteFile.BuildCompany();
+        var company = TestDataWriteFile.BuildCompanyDTO();
 
         //Act
         var exception = await Record.ExceptionAsync(() => _underTest.WriteAddress(company));

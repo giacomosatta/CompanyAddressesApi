@@ -21,9 +21,11 @@ public class CompanyController : ControllerBase
         if (company == null)
             return BadRequest();
 
+        var companyDTO = DTOMapperService.CompanyMapToDTO(company);
+
         try
         {
-            await _fileWriterService.WriteAddress(company);
+            await _fileWriterService.WriteAddress(companyDTO);
             return Ok();
         }
         catch (Exception ex)

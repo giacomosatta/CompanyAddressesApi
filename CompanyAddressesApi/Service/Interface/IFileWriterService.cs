@@ -1,7 +1,8 @@
 using CompanyAddressesApi.Models;
+using CompanyAddressesApi.Models.DTOs;
 
 namespace CompanyAddressesApi.Service.Interface;
 public interface IFileWriterService
 {
-    Task WriteAddress(Company company);
+    Task WriteAddress(CompanyDTO company);
 }

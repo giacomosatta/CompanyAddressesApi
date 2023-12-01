@@ -33,7 +33,7 @@ public class CompanyControllerTest
     public async void ShouldReturn400_WhenCompanyIsNull()
     {
         // Given
-        Company company = null;
+        Company? company = null;
 
         // When
         var result = await _underTest.PostCompanyAddress(company);
