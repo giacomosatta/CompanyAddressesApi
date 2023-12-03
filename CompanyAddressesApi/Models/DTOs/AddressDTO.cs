@@ -3,9 +3,14 @@ namespace CompanyAddressesApi.Models.DTOs;
 
 public class AddressDTO
 {
-    public string FullAddress { get; set; }
+    private string fullAddress { get; set; }
 
+    public string FullAddress
+    {
 
+        get { return fullAddress; }
+        set { fullAddress = value; }
+    }
 
     public override bool Equals(object? obj)
     {
@@ -19,4 +24,3 @@ public class AddressDTO
     }
 }
 
- 

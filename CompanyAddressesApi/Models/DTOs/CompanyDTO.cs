@@ -2,9 +2,28 @@ namespace CompanyAddressesApi.Models.DTOs;
 
 public class CompanyDTO
 {
-    public string Name { get; set; }
-    public string RegistrationNumber { get; set; }
-    public List<AddressDTO> Addresses { get; set; }
+    private string name { get; set; }
+    private string registrationNumber { get; set; }
+    private List<AddressDTO> addresses { get; set; }
+
+
+    public string Name
+    {
+        get { return name; }
+        set { name = value; }
+    }
+
+    public string RegistrationNumber
+    {
+        get { return registrationNumber; }
+        set { registrationNumber = value; }
+    }
+
+    public List<AddressDTO> Addresses
+    {
+        get { return addresses; }
+        set { addresses = value; }
+    }
 
     public override string ToString()
     {
